@@ -19,20 +19,8 @@ The "Wyse Project" is a Django web application with Django Rest Framework and Dj
 │   ├── db_connection.py
 │   ├── __init__.py
 │   ├── migrations
-│   │   ├── 0001_initial.py
 │   │   ├── __init__.py
-│   │   └── __pycache__
-│   │       ├── 0001_initial.cpython-39.pyc
-│   │       └── __init__.cpython-39.pyc
 │   ├── models.py
-│   ├── __pycache__
-│   │   ├── admin.cpython-39.pyc
-│   │   ├── apps.cpython-39.pyc
-│   │   ├── __init__.cpython-39.pyc
-│   │   ├── models.cpython-39.pyc
-│   │   ├── serializers.cpython-39.pyc
-│   │   ├── urls.cpython-39.pyc
-│   │   └── views.cpython-39.pyc
 │   ├── serializers.py
 │   ├── tests.py
 │   ├── urls.py
@@ -40,10 +28,6 @@ The "Wyse Project" is a Django web application with Django Rest Framework and Dj
 └── wyse_projDir
     ├── asgi.py
     ├── __init__.py
-    ├── __pycache__
-    │   ├── __init__.cpython-39.pyc
-    │   ├── settings.cpython-39.pyc
-    │   └── urls.cpython-39.pyc
     ├── settings.py
     ├── urls.py
     └── wsgi.py
