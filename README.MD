@@ -1,6 +1,4 @@
-Certainly, here's the project documentation in Markdown format:
-
-```markdown
+```
 # Project Documentation - "Wyse Project"
 
 ## Project Description
@@ -95,5 +93,3 @@ In the `wyse_projDir` directory:
 
 This documentation provides an overview of the "Wyse Project," including its structure and key components. Follow the provided steps to set up and run the project for user authentication and profile management.
 ```
-
-The documentation is now formatted in Markdown for easy reading and sharing.
